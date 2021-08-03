@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FatihAkmalH
-- 👀 I’m interested in Front-end Web Development and Design
+- 👀 I’m interested in Front-end Web Development and UI/UX Design
 - 🌱 I’m currently learning javascript and react.js
-- 💞️ I’m  not looking to collaborate but if you want to collaborate you can contact me
+- 💞️ If you're looking to collaborate you can contact me
 - 📫 How to reach me fatihakmal2424@gmail.com
 
 <!---
